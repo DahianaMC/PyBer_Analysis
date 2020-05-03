@@ -5,8 +5,7 @@ Pyber data was provided to create visualizations to help to understand the data 
 - We inspected the data for NaN values, and analize if the files can be merged.  Both data sets have the city name and was merged using this column to create a DataFrame.  
 - Using the merged DataFrame we created 3 DataFrames for each type of city: Urban, Suburban and Rural, then we computed the number of rides, the average fare and driver counts per city for each DataFrame by city type.  
 - We incorporated the data calculated in a bubble chart and show the Total Number of Rides (Per City) vs Average Fare.
-- The mean, median and mode were calculated for rides, fare and drivers by city type using different methods like pandas, numpy and SciPy.
-- The box plots were created for ride count, ride fare and driver count by city type to check for outliers.
+- The mean, median and mode were calculated for rides, fare and drivers by city type using different methods like pandas, numpy and SciPy, and also the box plots were created for ride count, ride fare and driver count by city type.
 - After getting the percentages of fares, rides and drivers by city type, we created a pie chart for each of the variables (fares, rides and drivers).
 - For Challenge of Module 5:
   - Need to create a DataFrame that summarizes the key metrics for the ride-sharing data by city type.
@@ -18,6 +17,11 @@ Pyber data was provided to create visualizations to help to understand the data 
 
 ### Results
 - Bubble Chart: PyBer Ride-Sharing Data (2019)
+
+![Fig1](https://github.com/DahianaMC/PyBer_Analysis/blob/master/Analysis/Fig1.png)
+
+The bubble chart shows the total number of rides in the urban cities are higher, but cheaper comparing with the rural and suburban cities.  Urban cities have more than doble of the rides of the rural cities, but the fares in rural cities are more expensive comparing with the suburban and urban cities.
+
 
 
 ### Summary
