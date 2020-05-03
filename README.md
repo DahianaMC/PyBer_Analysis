@@ -40,13 +40,29 @@ Pyber data was provided to create visualizations to help to understand the data 
 
   ![Fig4](https://github.com/DahianaMC/PyBer_Analysis/blob/master/Analysis/Fig4.png)
 
-  - Shows the driver count by city type.  Less drivers are needed for rural cities
+  - Shows the driver count by city type.  Less drivers are needed for rural cities and urban cities have more drivers, but also depends on the city.  The number of drivers on some urban cities are almost 3 times the suburban cities and 7 times the rural cities.
+  
+- Percentage of Total Fares by City Type
 
-![Fig5](https://github.com/DahianaMC/PyBer_Analysis/blob/master/Analysis/Fig5.png)
+  ![Fig5](https://github.com/DahianaMC/PyBer_Analysis/blob/master/Analysis/Fig5.png)
 
-![Fig6](https://github.com/DahianaMC/PyBer_Analysis/blob/master/Analysis/Fig6.png)
+  - 62.7% of the total fares for the urban, suburban and rural cities are from urban cities, 30.5% came from suburban cities and rural cities has only 6.8% of the total fares.
 
-![Fig7](https://github.com/DahianaMC/PyBer_Analysis/blob/master/Analysis/Fig7.png)
+- Percentage of Total Rides by City Type
+
+  ![Fig6](https://github.com/DahianaMC/PyBer_Analysis/blob/master/Analysis/Fig6.png)
+
+  - 68.4% of the total rides came from urban cities, suburban has 26.3% and rural only 5.3% of the total rides.
+  
+- Percentage of Total Drivers by City Type
+
+  ![Fig7](https://github.com/DahianaMC/PyBer_Analysis/blob/master/Analysis/Fig7.png)
+  
+   - 80.9% of the total drivers correspond to the urban cities, suburban cities has 16.5% and rural cities 2.6%.
+   
+##Challenge 5
+
+- 
 
 ![Fig8](https://github.com/DahianaMC/PyBer_Analysis/blob/master/Analysis/Fig8.png)
 
