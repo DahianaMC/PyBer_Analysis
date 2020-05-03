@@ -23,17 +23,24 @@ Pyber data was provided to create visualizations to help to understand the data 
 
   - The bubble chart shows the total number of rides in the urban cities are higher, but cheaper comparing with the rural and suburban cities.  Urban cities have more than doble of the rides of the rural cities, but the fares in rural cities are more expensive comparing with the suburban and urban cities.
 
-- Box Plots: Ride Count Data (2019)
+- Box Plots: 
+  - Ride Count Data (2019)
 
-![Fig2](https://github.com/DahianaMC/PyBer_Analysis/blob/master/Analysis/Fig2.png)
+  ![Fig2](https://github.com/DahianaMC/PyBer_Analysis/blob/master/Analysis/Fig2.png)
 
-- Ride Fare Data (2019)
+  Shows the ride counts per city by city type.  Urban cities has 3 times of rides of rural cities, suburban cities has almost twice the rides of the rural cities.  The data for urban cities shows an outlier, but I will not remove it since the point is very close to the upper limit and more information will be needed to remove that point from the data.
 
-![Fig3](https://github.com/DahianaMC/PyBer_Analysis/blob/master/Analysis/Fig3.png)
+  - Ride Fare Data (2019)
 
-- Driver Count Data (2019)
+  ![Fig3](https://github.com/DahianaMC/PyBer_Analysis/blob/master/Analysis/Fig3.png)
 
-![Fig4](https://github.com/DahianaMC/PyBer_Analysis/blob/master/Analysis/Fig4.png)
+  Shows the ride fares by city type.  Rural fares show the highest fares for city type, and urban cities reported the lowest fares.  The rural fares are more spread out than the suburban and urban cities.  
+
+  - Driver Count Data (2019)
+
+  ![Fig4](https://github.com/DahianaMC/PyBer_Analysis/blob/master/Analysis/Fig4.png)
+
+  - Shows the driver count by city type.  Less drivers are needed for rural cities
 
 ![Fig5](https://github.com/DahianaMC/PyBer_Analysis/blob/master/Analysis/Fig5.png)
 
