@@ -21,9 +21,27 @@ Pyber data was provided to create visualizations to help to understand the data 
 
 ![Fig1](https://github.com/DahianaMC/PyBer_Analysis/blob/master/Analysis/Fig1.png)
 
-The bubble chart shows the total number of rides in the urban cities are higher, but cheaper comparing with the rural and suburban cities.  Urban cities have more than doble of the rides of the rural cities, but the fares in rural cities are more expensive comparing with the suburban and urban cities.
+  - The bubble chart shows the total number of rides in the urban cities are higher, but cheaper comparing with the rural and suburban cities.  Urban cities have more than doble of the rides of the rural cities, but the fares in rural cities are more expensive comparing with the suburban and urban cities.
 
+- Box Plots: Ride Count Data (2019)
 
+![Fig2](https://github.com/DahianaMC/PyBer_Analysis/blob/master/Analysis/Fig2.png)
+
+- Ride Fare Data (2019)
+
+![Fig3](https://github.com/DahianaMC/PyBer_Analysis/blob/master/Analysis/Fig3.png)
+
+- Driver Count Data (2019)
+
+![Fig4](https://github.com/DahianaMC/PyBer_Analysis/blob/master/Analysis/Fig4.png)
+
+![Fig5](https://github.com/DahianaMC/PyBer_Analysis/blob/master/Analysis/Fig5.png)
+
+![Fig6](https://github.com/DahianaMC/PyBer_Analysis/blob/master/Analysis/Fig6.png)
+
+![Fig7](https://github.com/DahianaMC/PyBer_Analysis/blob/master/Analysis/Fig7.png)
+
+![Fig8](https://github.com/DahianaMC/PyBer_Analysis/blob/master/Analysis/Fig8.png)
 
 ### Summary
 
