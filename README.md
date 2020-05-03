@@ -60,9 +60,23 @@ Pyber data was provided to create visualizations to help to understand the data 
   
    - 80.9% of the total drivers correspond to the urban cities, suburban cities has 16.5% and rural cities 2.6%.
    
-##Challenge 5
+## Challenge 5
 
-- 
+- Technical Analysis 1: 
+  - Create the series for total rides, total drivers and total fares by city type, then calculate the driver count by city type, the sum of the fares by city type and the average fare per ride.
+
+  - Driver count by city count was calculated from the city_data_df, making a group by type then make a sum of the driver count.  Another way to make this calculation is taking the merged dataframe (pyber_data_df) and group by city and type them calculate the mean of driver count.
+
+  - The sum of the fares was calculated from the merged dataframe, making the group by type then making the sum of the fares.
+  
+  - The average fare per ride was computed making a group by type then an average of the fares.
+  
+  - After creating the series, we created the following dataframe:
+
+  ![Summary Key Metrics DataFrame](https://github.com/DahianaMC/PyBer_Analysis/blob/master/Analysis/Summary%20Key%20Metrics%20DataFrame.JPG)
+
+  - The table shows the rural cities have 13 more rides than the rural cities, and 2.6 more rides than suburban cities.  Since the rides are much higher for urban cities, the total drivers and total fares are also higher.  
+  - The average fare per ride means to get the Total fares.
 
 ![Fig8](https://github.com/DahianaMC/PyBer_Analysis/blob/master/Analysis/Fig8.png)
 
