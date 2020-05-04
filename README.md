@@ -78,6 +78,7 @@ Pyber data was provided to create visualizations to help to understand the data 
   - The table shows the rural cities have 13 more rides than the rural cities, and 2.6 more rides than suburban cities.  Since the rides are much higher for urban cities, the total drivers and total fares are also higher.  
   - Looking the average fare per ride and average fare per driver, help to predict if more or less drivers are needed, if the average fare per ride calculated represents the fare that should be charged per ride in the city.  Let's assumed the rural average fare per ride is close to the one that is supposed to be charged, so when you compare with the average fare per driver you know you will need more drivers to be closed to the average fare per ride.  But when you look the urban city type is the opposite, the average fare per driver is less than average fare per ride, this means there is more drivers than needed and make to drop the fare.
 
+- Technical Analysis 2:
 - Multiple-line chart: Total Fare by City Type by week
   - We created a dataframe that has the fares by city types in a period of time 01/01/2019 to 04/28/2019.  Then the sum of the fares per week was calculated by city type.
 
