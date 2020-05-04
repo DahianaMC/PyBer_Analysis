@@ -102,6 +102,7 @@ Pyber data was provided to create visualizations to help to understand the data 
 ## Recommendations and Next Steps
 
 - The summary key metrics for urban type should be done by city, the fares are subject to the size of the city and population.  It will be better to have this information by city to get a better understanding how the average fares behave.
+- For the outliers, if we know the population and size of the city, we can compare the data and define if the outlier can be removed.
 
 ### Recommendations for Future Analysis
 - The driver name should be included in the data provided, it will represents the real number of drivers by city.
