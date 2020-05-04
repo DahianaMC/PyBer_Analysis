@@ -106,5 +106,7 @@ Pyber data was provided to create visualizations to help to understand the data 
 
 ### Recommendations for Future Analysis
 - The driver name should be included in the data provided, it will represents the real number of drivers by city.
+- The driver count provided on the city data file does not have a date, so there is uncertanty if those driver count correspond to the time of the rides on the file ride data was acquired.
+ 
 
 
