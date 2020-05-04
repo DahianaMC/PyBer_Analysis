@@ -27,19 +27,19 @@ Pyber data was provided to create visualizations to help to understand the data 
 
   ![Fig2](https://github.com/DahianaMC/PyBer_Analysis/blob/master/Analysis/Fig2.png)
 
-  Shows the ride counts per city by city type.  Urban cities have 3 times of rides of rural cities, suburban cities has almost twice the rides of the rural cities.  The data for urban cities shows an outlier, but I will not remove it since the point is very close to the upper limit and more information will be needed to remove that point from the data.
+  The box plot shows the ride counts per city by city type.  Urban cities have 3 times of rides of rural cities, suburban cities has almost twice the rides of the rural cities.  The data for urban cities shows an outlier, but I will not remove it since the point is very close to the upper limit and more information will be needed to remove that point from the data.
 
   - Ride Fare Data (2019)
 
   ![Fig3](https://github.com/DahianaMC/PyBer_Analysis/blob/master/Analysis/Fig3.png)
 
-  Shows the ride fares by city type.  Rural fares show the highest fares for city type, and urban cities reported the lowest fares.  The rural fares are more spread out than the suburban and urban cities.  
+  The box plot shows the ride fares by city type.  Rural fares show the highest fares for city type, and urban cities reported the lowest fares.  The rural fares are more spread out than the suburban and urban cities.  
 
   - Driver Count Data (2019)
 
   ![Fig4](https://github.com/DahianaMC/PyBer_Analysis/blob/master/Analysis/Fig4.png)
 
-  - Shows the driver count by city type.  Less drivers are needed for rural cities and urban cities have more drivers, but also depends on the city.  The number of drivers on some urban cities are almost 3 times the suburban cities and 7 times the rural cities.
+  - The box plot shows the driver count by city type.  Less drivers are needed for rural cities and urban cities have more drivers, but also depends on the city.  The number of drivers on some urban cities are almost 3 times the suburban cities and 7 times the rural cities.
   
 - Percentage of Total Fares by City Type
 
