@@ -80,7 +80,7 @@ Pyber data was provided to create visualizations to help to understand the data 
 
 - Technical Analysis 2:
 - Multiple-line chart: Total Fare by City Type by week
-  - We created a dataframe that has the fares by city types in a period of time 01/01/2019 to 04/28/2019.  Then the sum of the fares per week was calculated by city type.
+  - We created a dataframe that has the fares by city types in a period of time 01/01/2019 to 04/28/2019.  Then the sum of the fares by city type was calculated per week.
 
   ![Fig8](https://github.com/DahianaMC/PyBer_Analysis/blob/master/Analysis/Fig8.png)
   
