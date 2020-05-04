@@ -76,9 +76,14 @@ Pyber data was provided to create visualizations to help to understand the data 
   ![Summary Key Metrics DataFrame](https://github.com/DahianaMC/PyBer_Analysis/blob/master/Analysis/Summary%20Key%20Metrics%20DataFrame.JPG)
 
   - The table shows the rural cities have 13 more rides than the rural cities, and 2.6 more rides than suburban cities.  Since the rides are much higher for urban cities, the total drivers and total fares are also higher.  
-  - The average fare per ride means to get the Total fares.
+  - Looking the average fare per ride and average fare per driver, help to predict if more or less drivers are needed, if the average fare per ride calculated represents the fare that should be charged per ride in the city.  Let's assumed the rural average fare per ride is close to the one that is supposed to be charged, so when you compare with the average fare per driver you know you will need more drivers to be closed to the average fare per ride.  But when you look the urban city type is the opposite, the average fare per driver is less than average fare per ride, this means there is more drivers than needed and make to drop the fare.
 
-![Fig8](https://github.com/DahianaMC/PyBer_Analysis/blob/master/Analysis/Fig8.png)
+- Multiple-line chart: Total Fare by City Type by week
+  - We created a dataframe that has the fares by city types in a period of time 01/01/2019 to 04/28/2019.  Then the sum of the fares per week was calculated by city type.
+
+  ![Fig8](https://github.com/DahianaMC/PyBer_Analysis/blob/master/Analysis/Fig8.png)
+  
+  - In general, urban cities have the higher accumulated fares. Comparing the lines for each city type, the suburban cities have about the doble of the rural fares, and the urban has the doble of the suburban fares.
 
 ### Summary
 
@@ -95,6 +100,8 @@ Pyber data was provided to create visualizations to help to understand the data 
 ### Technical Analyses Used
 
 ## Recommendations and Next Steps
+
+- The summary key metrics for urban type should be done by city, the fares are subject to the size of the city.  It will be better to have this information by city to get a better understanding how the average fares behave.
 
 ### Recommendations for Future Analysis
 
