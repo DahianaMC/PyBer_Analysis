@@ -1,5 +1,5 @@
 # PyBer Analysis Report
-### Purpose
+## Purpose
 Pyber data was provided to create visualizations to help to understand the data easier.  The objective was to find correlations between the drivers count, ride counts and fares in different cities that are subdivided by city types: Urban, Suburban and Rural.  We will be using bubble charts, box plots, line charts, tables for the analysis to provide the information quickly and detect patterns, trends, correlations and outliners.  In this case Matplolib will be used to create the charts to visualize data from a Data Series or DataFrame.
 
 ## Background and Results
